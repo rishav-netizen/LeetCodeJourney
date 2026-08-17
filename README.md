@@ -49,4 +49,13 @@ This repository contains my solutions to LeetCode problems as I work through
 | ------- |
 | [0007-reverse-integer](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
