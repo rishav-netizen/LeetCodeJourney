@@ -32,6 +32,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | ------- |
 | [0001-two-sum](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0088-merge-sorted-array) |
+| [1920-build-array-from-permutation](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1920-build-array-from-permutation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,4 +59,8 @@ This repository contains my solutions to LeetCode problems as I work through
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0069-sqrtx) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
