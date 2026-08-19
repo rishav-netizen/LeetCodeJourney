@@ -31,11 +31,13 @@ This repository contains my solutions to LeetCode problems as I work through
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0088-merge-sorted-array) |
 | [1920-build-array-from-permutation](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1920-build-array-from-permutation) |
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0088-merge-sorted-array) |
 ## Sorting
