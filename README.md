@@ -42,10 +42,12 @@ This repository contains my solutions to LeetCode problems as I work through
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +70,7 @@ This repository contains my solutions to LeetCode problems as I work through
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0242-valid-anagram) |
 ## String Matching
 |  |
 | ------- |
