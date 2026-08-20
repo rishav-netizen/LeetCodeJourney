@@ -31,6 +31,7 @@ This repository contains my solutions to LeetCode problems as I work through
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0088-merge-sorted-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -60,6 +61,7 @@ This repository contains my solutions to LeetCode problems as I work through
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0069-sqrtx) |
 ## Newton's Method
 |  |
@@ -90,4 +92,8 @@ This repository contains my solutions to LeetCode problems as I work through
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
