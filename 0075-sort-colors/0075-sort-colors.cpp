@@ -13,11 +13,8 @@ public:
             {
                 ones++;
             }
-            else 
-            {
-                twos++;
-            }
         }
+        twos = l - (ones + zeros);
         for(int i = 0; i < l; i++)
         {
             if (i < zeros)
