@@ -33,6 +33,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0001-two-sum](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0189-rotate-array) |
@@ -45,12 +46,14 @@ This repository contains my solutions to LeetCode problems as I work through
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0242-valid-anagram) |
 ## Hash Table
@@ -107,4 +110,12 @@ This repository contains my solutions to LeetCode problems as I work through
 |  |
 | ------- |
 | [0136-single-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0136-single-number) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
