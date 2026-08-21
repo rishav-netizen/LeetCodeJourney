@@ -34,6 +34,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0004-median-of-two-sorted-arrays](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0189-rotate-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1920-build-array-from-permutation) |
 ## Two Pointers
@@ -42,6 +43,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0189-rotate-array) |
 ## Sorting
 |  |
 | ------- |
@@ -58,6 +60,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0007-reverse-integer](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
