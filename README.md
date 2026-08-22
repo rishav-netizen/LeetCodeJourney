@@ -33,6 +33,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0001-two-sum](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0136-single-number) |
@@ -109,6 +110,7 @@ This repository contains my solutions to LeetCode problems as I work through
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0169-majority-element) |
 ## Bit Manipulation
 |  |
@@ -130,4 +132,8 @@ This repository contains my solutions to LeetCode problems as I work through
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
