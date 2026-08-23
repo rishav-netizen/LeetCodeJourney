@@ -35,6 +35,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -75,6 +76,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | ------- |
 | [0007-reverse-integer](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0189-rotate-array) |
 ## Binary Search
