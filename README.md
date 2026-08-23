@@ -96,6 +96,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0242-valid-anagram) |
+| [1021-remove-outermost-parentheses](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1021-remove-outermost-parentheses) |
 ## String Matching
 |  |
 | ------- |
@@ -143,4 +144,12 @@ This repository contains my solutions to LeetCode problems as I work through
 | ------- |
 | [0053-maximum-subarray](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
