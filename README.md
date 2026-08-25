@@ -47,6 +47,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -74,6 +75,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0242-valid-anagram](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0290-word-pattern) |
 | [0771-jewels-and-stones](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0771-jewels-and-stones) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
