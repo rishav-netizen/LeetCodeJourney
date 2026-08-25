@@ -81,6 +81,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0066-plus-one](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0412-fizz-buzz) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,6 +94,7 @@ This repository contains my solutions to LeetCode problems as I work through
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
@@ -102,6 +104,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0151-reverse-words-in-a-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0290-word-pattern) |
+| [0412-fizz-buzz](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0412-fizz-buzz) |
 | [1021-remove-outermost-parentheses](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1021-remove-outermost-parentheses) |
 ## String Matching
 |  |
