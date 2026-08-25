@@ -72,6 +72,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0001-two-sum](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0290-word-pattern) |
 ## Math
 |  |
 | ------- |
@@ -100,6 +101,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0290-word-pattern) |
 | [1021-remove-outermost-parentheses](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1021-remove-outermost-parentheses) |
 ## String Matching
 |  |
