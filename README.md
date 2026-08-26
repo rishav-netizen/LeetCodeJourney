@@ -7,7 +7,10 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=for-the-badge)
 
-> A personal journey through **LeetCode, Data Structures & Algorithms, and C++**.
+> A personal journey through **LeetCode, Data Structures & Algorithms, and C++ with a little bit of python**.
+
+You may checkout my learnings in C++ for DSA here
+[DSA Learnings](https://github.com/rishav-netizen/my-awesome-project)
 
 This repository contains my solutions to LeetCode problems as I work through
 **Data Structures & Algorithms**.
