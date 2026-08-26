@@ -10,7 +10,7 @@
 > A personal journey through **LeetCode, Data Structures & Algorithms, and C++ with a little bit of python**.
 
 You may checkout my learnings in C++ for DSA here
-[DSA Learnings](https://github.com/rishav-netizen/my-awesome-project)
+[DSA Learnings](https://github.com/rishav-netizen/DSA-Learnings)
 
 This repository contains my solutions to LeetCode problems as I work through
 **Data Structures & Algorithms**.
