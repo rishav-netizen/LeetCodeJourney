@@ -94,6 +94,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0069-sqrtx](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0223-rectangle-area) |
 | [0412-fizz-buzz](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0412-fizz-buzz) |
 | [1903-largest-odd-number-in-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
@@ -199,4 +200,8 @@ This repository contains my solutions to LeetCode problems as I work through
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0202-happy-number) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
