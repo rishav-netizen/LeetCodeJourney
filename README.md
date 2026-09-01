@@ -37,6 +37,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0004-median-of-two-sorted-arrays](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0073-set-matrix-zeroes) |
@@ -92,6 +93,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | ------- |
 | [0007-reverse-integer](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0069-sqrtx) |
@@ -220,5 +222,6 @@ This repository contains my solutions to LeetCode problems as I work through
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
