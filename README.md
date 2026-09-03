@@ -135,6 +135,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0171-excel-sheet-column-number) |
