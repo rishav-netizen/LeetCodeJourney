@@ -46,6 +46,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0485-max-consecutive-ones) |
@@ -79,6 +80,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0075-sort-colors](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
@@ -142,6 +144,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0067-add-binary](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0171-excel-sheet-column-number) |
+| [0179-largest-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0344-reverse-string) |
@@ -220,6 +223,7 @@ This repository contains my solutions to LeetCode problems as I work through
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0179-largest-number) |
 | [1903-largest-odd-number-in-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1903-largest-odd-number-in-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
