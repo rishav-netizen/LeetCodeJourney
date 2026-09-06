@@ -113,6 +113,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0223-rectangle-area](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0509-fibonacci-number) |
@@ -254,6 +255,7 @@ This repository contains my solutions to LeetCode problems as I work through
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
