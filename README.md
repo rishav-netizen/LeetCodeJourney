@@ -35,6 +35,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | ------- |
 | [0001-two-sum](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0048-rotate-image) |
@@ -145,6 +146,7 @@ This repository contains my solutions to LeetCode problems as I work through
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0058-length-of-last-word) |
@@ -261,4 +263,8 @@ This repository contains my solutions to LeetCode problems as I work through
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0509-fibonacci-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
