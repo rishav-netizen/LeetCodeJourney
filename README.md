@@ -122,6 +122,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [1903-largest-odd-number-in-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1903-largest-odd-number-in-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3870-count-commas-in-range](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
