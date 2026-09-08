@@ -112,6 +112,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0189-rotate-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0268-missing-number) |
@@ -157,6 +158,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0151-reverse-words-in-a-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0179-largest-number) |
+| [0224-basic-calculator](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0344-reverse-string) |
@@ -221,6 +223,7 @@ This repository contains my solutions to LeetCode problems as I work through
 ## Stack
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0224-basic-calculator) |
 | [1021-remove-outermost-parentheses](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
@@ -261,6 +264,7 @@ This repository contains my solutions to LeetCode problems as I work through
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0509-fibonacci-number) |
