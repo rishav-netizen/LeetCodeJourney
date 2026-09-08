@@ -113,6 +113,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0202-happy-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0367-valid-perfect-square) |
@@ -140,6 +141,7 @@ This repository contains my solutions to LeetCode problems as I work through
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -269,4 +271,8 @@ This repository contains my solutions to LeetCode problems as I work through
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0014-longest-common-prefix) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
