@@ -100,6 +100,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0242-valid-anagram](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0771-jewels-and-stones) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3483-unique-3-digit-even-numbers) |
@@ -173,6 +174,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0242-valid-anagram](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0796-rotate-string) |
@@ -221,6 +223,7 @@ This repository contains my solutions to LeetCode problems as I work through
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -302,4 +305,8 @@ This repository contains my solutions to LeetCode problems as I work through
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0042-trapping-rain-water) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
