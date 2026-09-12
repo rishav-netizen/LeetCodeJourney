@@ -59,6 +59,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [1822-sign-of-the-product-of-an-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3024-type-of-triangle](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3024-type-of-triangle) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -90,6 +91,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0179-largest-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0268-missing-number) |
+| [3024-type-of-triangle](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +132,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [1518-water-bottles](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1518-water-bottles) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1903-largest-odd-number-in-string) |
+| [3024-type-of-triangle](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3024-type-of-triangle) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3870-count-commas-in-range) |
@@ -309,4 +312,8 @@ This repository contains my solutions to LeetCode problems as I work through
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0387-first-unique-character-in-a-string) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
