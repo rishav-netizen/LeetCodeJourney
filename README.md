@@ -46,6 +46,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0075-sort-colors](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0179-largest-number) |
@@ -99,6 +100,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | ------- |
 | [0001-two-sum](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0242-valid-anagram) |
@@ -320,4 +322,8 @@ This repository contains my solutions to LeetCode problems as I work through
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3024-type-of-triangle) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
