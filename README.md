@@ -138,6 +138,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [1822-sign-of-the-product-of-an-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1903-largest-odd-number-in-string) |
 | [2235-add-two-integers](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2413-smallest-even-multiple) |
 | [3024-type-of-triangle](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3024-type-of-triangle) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -307,6 +308,7 @@ This repository contains my solutions to LeetCode problems as I work through
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2413-smallest-even-multiple) |
 ## Enumeration
 |  |
 | ------- |
