@@ -56,6 +56,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0485-max-consecutive-ones](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0704-binary-search) |
+| [1732-find-the-highest-altitude](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1920-build-array-from-permutation) |
@@ -264,6 +265,7 @@ This repository contains my solutions to LeetCode problems as I work through
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0560-subarray-sum-equals-k) |
+| [1732-find-the-highest-altitude](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
