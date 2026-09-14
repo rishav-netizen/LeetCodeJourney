@@ -39,6 +39,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0053-maximum-subarray) |
@@ -153,6 +154,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0367-valid-perfect-square) |
