@@ -137,6 +137,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0412-fizz-buzz](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1518-water-bottles](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1518-water-bottles) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1903-largest-odd-number-in-string) |
@@ -228,6 +229,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0136-single-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Quicksort
 |  |
 | ------- |
