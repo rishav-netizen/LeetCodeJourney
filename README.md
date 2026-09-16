@@ -58,6 +58,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0485-max-consecutive-ones](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0977-squares-of-a-sorted-array) |
 | [1732-find-the-highest-altitude](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -87,6 +88,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0202-happy-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -97,6 +99,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0179-largest-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0977-squares-of-a-sorted-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3024-type-of-triangle](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3024-type-of-triangle) |
 ## Hash Table
