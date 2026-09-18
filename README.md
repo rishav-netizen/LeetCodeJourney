@@ -67,6 +67,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2942-find-words-containing-character](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3024-type-of-triangle) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3483-unique-3-digit-even-numbers) |
@@ -212,6 +213,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [1903-largest-odd-number-in-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1903-largest-odd-number-in-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2278-percentage-of-letter-in-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2942-find-words-containing-character](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2942-find-words-containing-character) |
 ## String Matching
 |  |
 | ------- |
