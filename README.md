@@ -56,6 +56,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0189-rotate-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0283-move-zeroes) |
+| [0312-burst-balloons](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0312-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0704-binary-search) |
@@ -273,6 +274,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0042-trapping-rain-water](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0312-burst-balloons](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0312-burst-balloons) |
 | [0509-fibonacci-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
