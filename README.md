@@ -126,6 +126,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0387-first-unique-character-in-a-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0771-jewels-and-stones) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -218,6 +219,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0771-jewels-and-stones](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1021-remove-outermost-parentheses) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1903-largest-odd-number-in-string) |
 | [2278-percentage-of-letter-in-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2278-percentage-of-letter-in-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
