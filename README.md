@@ -67,6 +67,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1920-build-array-from-permutation) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -223,6 +224,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [1021-remove-outermost-parentheses](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1021-remove-outermost-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1903-largest-odd-number-in-string) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2278-percentage-of-letter-in-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2278-percentage-of-letter-in-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2942-find-words-containing-character) |
