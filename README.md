@@ -59,6 +59,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0283-move-zeroes](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0283-move-zeroes) |
 | [0312-burst-balloons](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0312-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0977-squares-of-a-sorted-array) |
@@ -185,6 +186,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0268-missing-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0704-binary-search) |
 ## Newton's Method
 |  |
