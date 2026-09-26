@@ -207,6 +207,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2974-minimum-number-game](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2974-minimum-number-game) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## String
 |  |
 | ------- |
@@ -238,6 +239,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [2678-number-of-senior-citizens](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2678-number-of-senior-citizens) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2942-find-words-containing-character) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3280-convert-date-to-binary](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3280-convert-date-to-binary) |
 ## String Matching
 |  |
