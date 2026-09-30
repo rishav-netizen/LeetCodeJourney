@@ -46,6 +46,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0053-maximum-subarray](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -189,6 +190,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0367-valid-perfect-square) |
@@ -354,6 +356,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | ------- |
 | [0048-rotate-image](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1672-richest-customer-wealth) |
 ## Recursion
 |  |
