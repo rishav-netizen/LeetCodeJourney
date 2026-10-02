@@ -249,6 +249,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [3120-count-the-number-of-special-characters-i](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3136-valid-word](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3136-valid-word) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3210-find-the-encrypted-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3210-find-the-encrypted-string) |
 | [3280-convert-date-to-binary](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3280-convert-date-to-binary) |
 ## String Matching
 |  |
