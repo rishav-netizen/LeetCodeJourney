@@ -56,6 +56,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0169-majority-element](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0204-count-primes) |
 | [0229-majority-element-ii](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0283-move-zeroes) |
@@ -154,6 +155,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0171-excel-sheet-column-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0231-power-of-two) |
@@ -383,11 +385,13 @@ This repository contains my solutions to LeetCode problems as I work through
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2413-smallest-even-multiple) |
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0204-count-primes) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3483-unique-3-digit-even-numbers) |
 ## Monotonic Stack
 |  |
@@ -418,4 +422,16 @@ This repository contains my solutions to LeetCode problems as I work through
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0347-top-k-frequent-elements) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
