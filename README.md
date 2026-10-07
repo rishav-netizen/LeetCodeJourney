@@ -165,6 +165,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0367-valid-perfect-square](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0509-fibonacci-number) |
+| [1154-day-of-the-year](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1154-day-of-the-year) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1486-xor-operation-in-an-array) |
@@ -243,6 +244,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0796-rotate-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0796-rotate-string) |
 | [0824-goat-latin](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0824-goat-latin) |
 | [1021-remove-outermost-parentheses](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1021-remove-outermost-parentheses) |
+| [1154-day-of-the-year](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1154-day-of-the-year) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1903-largest-odd-number-in-string) |
