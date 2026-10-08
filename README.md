@@ -116,6 +116,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0242-valid-anagram](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0347-top-k-frequent-elements) |
+| [0389-find-the-difference](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0977-squares-of-a-sorted-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2974-minimum-number-game](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2974-minimum-number-game) |
@@ -136,6 +137,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0347-top-k-frequent-elements](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -238,6 +240,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0344-reverse-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0709-to-lower-case) |
@@ -293,6 +296,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0191-number-of-1-bits](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1486-xor-operation-in-an-array) |
 ## Quicksort
