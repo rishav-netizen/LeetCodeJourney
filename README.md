@@ -68,6 +68,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0704-binary-search](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0977-squares-of-a-sorted-array) |
 | [1672-richest-customer-wealth](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1672-richest-customer-wealth) |
+| [1701-average-waiting-time](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1701-average-waiting-time) |
 | [1732-find-the-highest-altitude](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -216,6 +217,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [1518-water-bottles](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1518-water-bottles) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1688-count-of-matches-in-tournament](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1688-count-of-matches-in-tournament) |
+| [1701-average-waiting-time](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1701-average-waiting-time) |
 | [1920-build-array-from-permutation](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2154-keep-multiplying-found-values-by-two) |
