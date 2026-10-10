@@ -73,6 +73,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1920-build-array-from-permutation) |
+| [1980-find-unique-binary-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1980-find-unique-binary-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -142,6 +143,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0560-subarray-sum-equals-k](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0771-jewels-and-stones) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1980-find-unique-binary-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1980-find-unique-binary-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3483-unique-3-digit-even-numbers) |
@@ -255,6 +257,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1903-largest-odd-number-in-string) |
+| [1980-find-unique-binary-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1980-find-unique-binary-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2278-percentage-of-letter-in-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2278-percentage-of-letter-in-string) |
 | [2678-number-of-senior-citizens](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2678-number-of-senior-citizens) |
@@ -446,4 +449,8 @@ This repository contains my solutions to LeetCode problems as I work through
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0204-count-primes) |
+## Backtracking
+|  |
+| ------- |
+| [1980-find-unique-binary-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1980-find-unique-binary-string) |
 <!---LeetCode Topics End-->
