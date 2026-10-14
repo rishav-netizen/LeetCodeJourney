@@ -18,11 +18,11 @@ public:
             }
         } 
 
-        int x = min(min_idx, max_idx), y = max(min_idx, max_idx);
+        int before = min(min_idx, max_idx), after = max(min_idx, max_idx);
 
-        int front = y + 1;
-        int back = n - x;
-        int both = x + 1 + n - y;
+        int front = after + 1;
+        int back = n - before;
+        int both = before + 1 + n - after;
         
         return min({front, back, both});
     }
