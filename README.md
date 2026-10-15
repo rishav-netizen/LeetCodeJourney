@@ -77,6 +77,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [1980-find-unique-binary-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1980-find-unique-binary-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -182,6 +183,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [1688-count-of-matches-in-tournament](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1903-largest-odd-number-in-string) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2235-add-two-integers](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -264,6 +266,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [1903-largest-odd-number-in-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1903-largest-odd-number-in-string) |
 | [1980-find-unique-binary-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1980-find-unique-binary-string) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2278-percentage-of-letter-in-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2278-percentage-of-letter-in-string) |
 | [2678-number-of-senior-citizens](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2678-number-of-senior-citizens) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -388,6 +391,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0073-set-matrix-zeroes](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1672-richest-customer-wealth) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2125-number-of-laser-beams-in-a-bank) |
 ## Recursion
 |  |
 | ------- |
