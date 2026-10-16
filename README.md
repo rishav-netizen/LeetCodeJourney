@@ -258,6 +258,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0771-jewels-and-stones](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0796-rotate-string) |
 | [0824-goat-latin](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0824-goat-latin) |
+| [0831-masking-personal-information](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0831-masking-personal-information) |
 | [1021-remove-outermost-parentheses](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1021-remove-outermost-parentheses) |
 | [1154-day-of-the-year](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1154-day-of-the-year) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1545-find-kth-bit-in-nth-binary-string) |
