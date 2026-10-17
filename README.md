@@ -67,6 +67,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0560-subarray-sum-equals-k](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0977-squares-of-a-sorted-array) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1480-running-sum-of-1d-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1672-richest-customer-wealth) |
 | [1701-average-waiting-time](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1701-average-waiting-time) |
@@ -222,6 +223,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0067-add-binary](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0412-fizz-buzz) |
+| [0985-sum-of-even-numbers-after-queries](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1518-water-bottles](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1518-water-bottles) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1688-count-of-matches-in-tournament](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1688-count-of-matches-in-tournament) |
