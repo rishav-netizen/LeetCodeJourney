@@ -81,6 +81,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2678-number-of-senior-citizens](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2678-number-of-senior-citizens) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -113,6 +114,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0344-reverse-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
 | ------- |
@@ -232,6 +234,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [1920-build-array-from-permutation](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1920-build-array-from-permutation) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2974-minimum-number-game](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2974-minimum-number-game) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## String
