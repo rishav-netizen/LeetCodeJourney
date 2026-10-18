@@ -1,0 +1,11 @@
+class Solution {
+public:
+    int minDeletions(vector<int>& nums) {
+        int count = 0;
+        for(int i = 0, n = nums.size(); i < n - 1; i++)
+        {
+            if(nums[i] == nums[i+1]) count++;
+        }
+        return count;
+    }
+};
