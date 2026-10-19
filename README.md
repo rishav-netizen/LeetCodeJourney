@@ -197,6 +197,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [3024-type-of-triangle](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3024-type-of-triangle) |
 | [3280-convert-date-to-binary](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3280-convert-date-to-binary) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3871-count-commas-in-range-ii) |
@@ -382,6 +383,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
