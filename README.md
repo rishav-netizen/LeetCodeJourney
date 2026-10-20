@@ -197,6 +197,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [2520-count-the-digits-that-divide-a-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2652-sum-multiples) |
+| [2864-maximum-odd-binary-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3024-type-of-triangle) |
 | [3280-convert-date-to-binary](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3280-convert-date-to-binary) |
@@ -285,6 +286,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [2678-number-of-senior-citizens](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2678-number-of-senior-citizens) |
 | [2785-sort-vowels-in-a-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2785-sort-vowels-in-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [2864-maximum-odd-binary-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2864-maximum-odd-binary-number) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2942-find-words-containing-character) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -388,6 +390,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2864-maximum-odd-binary-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2864-maximum-odd-binary-number) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Floyd's Cycle Finding Algorithm
 |  |
