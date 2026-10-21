@@ -204,6 +204,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3870-count-commas-in-range](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3875-construct-uniform-parity-array-i) |
@@ -359,6 +360,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0312-burst-balloons](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0312-burst-balloons) |
 | [0509-fibonacci-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0509-fibonacci-number) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Stack
 |  |
 | ------- |
