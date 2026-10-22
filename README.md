@@ -91,6 +91,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [2974-minimum-number-game](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3024-type-of-triangle) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3483-unique-3-digit-even-numbers) |
+| [3484-design-spreadsheet](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3484-design-spreadsheet) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3875-construct-uniform-parity-array-i) |
@@ -159,6 +160,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3483-unique-3-digit-even-numbers) |
+| [3484-design-spreadsheet](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3484-design-spreadsheet) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
@@ -295,6 +297,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3210-find-the-encrypted-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3210-find-the-encrypted-string) |
 | [3280-convert-date-to-binary](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3280-convert-date-to-binary) |
+| [3484-design-spreadsheet](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3484-design-spreadsheet) |
 ## String Matching
 |  |
 | ------- |
@@ -414,6 +417,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0074-search-a-2d-matrix](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1672-richest-customer-wealth) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [3484-design-spreadsheet](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3484-design-spreadsheet) |
 ## Recursion
 |  |
 | ------- |
@@ -491,4 +495,8 @@ This repository contains my solutions to LeetCode problems as I work through
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2396-strictly-palindromic-number) |
+## Design
+|  |
+| ------- |
+| [3484-design-spreadsheet](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3484-design-spreadsheet) |
 <!---LeetCode Topics End-->
