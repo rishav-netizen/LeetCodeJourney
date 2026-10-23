@@ -76,6 +76,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [1822-sign-of-the-product-of-an-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1920-build-array-from-permutation) |
 | [1980-find-unique-binary-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1980-find-unique-binary-string) |
+| [2079-watering-plants](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2079-watering-plants) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -245,6 +246,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [1688-count-of-matches-in-tournament](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1688-count-of-matches-in-tournament) |
 | [1701-average-waiting-time](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1701-average-waiting-time) |
 | [1920-build-array-from-permutation](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1920-build-array-from-permutation) |
+| [2079-watering-plants](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2079-watering-plants) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2161-partition-array-according-to-given-pivot) |
