@@ -96,6 +96,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [3718-smallest-missing-multiple-of-k](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3899-angles-of-a-triangle](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3899-angles-of-a-triangle) |
 | [3903-smallest-stable-index-i](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3904-smallest-stable-index-ii) |
 ## Two Pointers
@@ -211,6 +212,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [3871-count-commas-in-range-ii](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3899-angles-of-a-triangle](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3899-angles-of-a-triangle) |
 ## Binary Search
 |  |
 | ------- |
@@ -405,6 +407,7 @@ This repository contains my solutions to LeetCode problems as I work through
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0223-rectangle-area) |
+| [3899-angles-of-a-triangle](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3899-angles-of-a-triangle) |
 ## Interactive
 |  |
 | ------- |
