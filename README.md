@@ -85,6 +85,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2678-number-of-senior-citizens) |
@@ -347,6 +348,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0389-find-the-difference](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1486-xor-operation-in-an-array) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Quicksort
 |  |
@@ -512,6 +514,7 @@ This repository contains my solutions to LeetCode problems as I work through
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2396-strictly-palindromic-number) |
+| [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 ## Design
 |  |
 | ------- |
