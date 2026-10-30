@@ -162,6 +162,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0389-find-the-difference](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0771-jewels-and-stones) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1980-find-unique-binary-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -291,6 +292,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1903-largest-odd-number-in-string) |
 | [1980-find-unique-binary-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1980-find-unique-binary-string) |
@@ -366,6 +368,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0347-top-k-frequent-elements](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0387-first-unique-character-in-a-string) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
