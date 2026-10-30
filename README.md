@@ -106,6 +106,7 @@ This repository contains my solutions to LeetCode problems as I work through
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -262,6 +263,7 @@ This repository contains my solutions to LeetCode problems as I work through
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -377,6 +379,7 @@ This repository contains my solutions to LeetCode problems as I work through
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -522,4 +525,8 @@ This repository contains my solutions to LeetCode problems as I work through
 |  |
 | ------- |
 | [3484-design-spreadsheet](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3484-design-spreadsheet) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
