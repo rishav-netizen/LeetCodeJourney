@@ -66,6 +66,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0540-single-element-in-a-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0704-binary-search) |
+| [0832-flipping-an-image](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0977-squares-of-a-sorted-array) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1480-running-sum-of-1d-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1480-running-sum-of-1d-array) |
@@ -120,6 +121,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0202-happy-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0344-reverse-string) |
+| [0832-flipping-an-image](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0977-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -247,6 +249,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0067-add-binary](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0412-fizz-buzz) |
+| [0832-flipping-an-image](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0832-flipping-an-image) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1518-water-bottles](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1518-water-bottles) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -350,6 +353,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0231-power-of-two](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1486-xor-operation-in-an-array) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
@@ -440,6 +444,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0048-rotate-image](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0074-search-a-2d-matrix) |
+| [0832-flipping-an-image](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1672-richest-customer-wealth) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [3484-design-spreadsheet](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3484-design-spreadsheet) |
