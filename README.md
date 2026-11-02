@@ -70,6 +70,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0977-squares-of-a-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0977-squares-of-a-sorted-array) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1480-running-sum-of-1d-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1480-running-sum-of-1d-array) |
+| [1528-shuffle-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1672-richest-customer-wealth) |
 | [1701-average-waiting-time](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1701-average-waiting-time) |
 | [1732-find-the-highest-altitude](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1732-find-the-highest-altitude) |
@@ -294,6 +295,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0831-masking-personal-information](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0831-masking-personal-information) |
 | [1021-remove-outermost-parentheses](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1021-remove-outermost-parentheses) |
 | [1154-day-of-the-year](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1154-day-of-the-year) |
+| [1528-shuffle-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1528-shuffle-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
