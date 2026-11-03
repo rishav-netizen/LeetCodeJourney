@@ -43,6 +43,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0041-first-missing-positive](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0073-set-matrix-zeroes) |
@@ -132,6 +133,7 @@ This repository contains my solutions to LeetCode problems as I work through
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0169-majority-element) |
@@ -152,6 +154,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | ------- |
 | [0001-two-sum](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0169-majority-element) |
@@ -272,6 +275,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0014-longest-common-prefix](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0125-valid-palindrome) |
