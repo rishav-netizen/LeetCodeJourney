@@ -70,6 +70,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0832-flipping-an-image](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0977-squares-of-a-sorted-array) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1480-running-sum-of-1d-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1672-richest-customer-wealth) |
@@ -255,6 +256,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0412-fizz-buzz](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0412-fizz-buzz) |
 | [0832-flipping-an-image](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0832-flipping-an-image) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1518-water-bottles](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1518-water-bottles) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1688-count-of-matches-in-tournament](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1688-count-of-matches-in-tournament) |
@@ -541,4 +543,12 @@ This repository contains my solutions to LeetCode problems as I work through
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0005-longest-palindromic-substring) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1409-queries-on-a-permutation-with-key](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1409-queries-on-a-permutation-with-key) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [1409-queries-on-a-permutation-with-key](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1409-queries-on-a-permutation-with-key) |
 <!---LeetCode Topics End-->
