@@ -70,6 +70,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0832-flipping-an-image](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0977-squares-of-a-sorted-array) |
 | [0985-sum-of-even-numbers-after-queries](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0985-sum-of-even-numbers-after-queries) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1480-running-sum-of-1d-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1528-shuffle-string) |
@@ -126,6 +127,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0344-reverse-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0344-reverse-string) |
 | [0832-flipping-an-image](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -145,6 +147,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0347-top-k-frequent-elements](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2785-sort-vowels-in-a-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2785-sort-vowels-in-a-string) |
@@ -245,6 +248,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0374-guess-number-higher-or-lower](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Newton's Method
 |  |
 | ------- |
