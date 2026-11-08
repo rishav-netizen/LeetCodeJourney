@@ -100,6 +100,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [2942-find-words-containing-character](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3024-type-of-triangle) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3483-unique-3-digit-even-numbers) |
 | [3484-design-spreadsheet](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3484-design-spreadsheet) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -180,6 +181,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3483-unique-3-digit-even-numbers) |
 | [3484-design-spreadsheet](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3484-design-spreadsheet) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3718-smallest-missing-multiple-of-k) |
