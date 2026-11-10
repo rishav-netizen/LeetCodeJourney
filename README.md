@@ -185,6 +185,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [3483-unique-3-digit-even-numbers](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3483-unique-3-digit-even-numbers) |
 | [3484-design-spreadsheet](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3484-design-spreadsheet) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
 |  |
 | ------- |
@@ -339,6 +340,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [3280-convert-date-to-binary](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3280-convert-date-to-binary) |
 | [3340-check-balanced-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3340-check-balanced-string) |
 | [3484-design-spreadsheet](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3484-design-spreadsheet) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String Matching
 |  |
 | ------- |
