@@ -93,6 +93,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [2161-partition-array-according-to-given-pivot](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2678-number-of-senior-citizens) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -179,6 +180,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [1832-check-if-the-sentence-is-pangram](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1980-find-unique-binary-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1980-find-unique-binary-string) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3162-find-the-number-of-good-pairs-i) |
