@@ -318,6 +318,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [1021-remove-outermost-parentheses](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1108-defanging-an-ip-address) |
 | [1154-day-of-the-year](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1154-day-of-the-year) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1528-shuffle-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1528-shuffle-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -402,6 +403,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0347-top-k-frequent-elements](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0387-first-unique-character-in-a-string) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -448,6 +450,7 @@ This repository contains my solutions to LeetCode problems as I work through
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0179-largest-number) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1903-largest-odd-number-in-string) |
