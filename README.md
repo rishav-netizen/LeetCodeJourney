@@ -73,6 +73,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0985-sum-of-even-numbers-after-queries](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0985-sum-of-even-numbers-after-queries) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1409-queries-on-a-permutation-with-key) |
+| [1470-shuffle-the-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1672-richest-customer-wealth) |
