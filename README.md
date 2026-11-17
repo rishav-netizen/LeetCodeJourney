@@ -188,6 +188,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [3162-find-the-number-of-good-pairs-i](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3483-unique-3-digit-even-numbers) |
 | [3484-design-spreadsheet](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3484-design-spreadsheet) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Math
@@ -350,6 +351,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [3340-check-balanced-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3340-check-balanced-string) |
 | [3484-design-spreadsheet](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3484-design-spreadsheet) |
 | [3498-reverse-degree-of-a-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3498-reverse-degree-of-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String Matching
 |  |
@@ -408,6 +410,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0387-first-unique-character-in-a-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0387-first-unique-character-in-a-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
