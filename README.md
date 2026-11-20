@@ -95,6 +95,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [2161-partition-array-according-to-given-pivot](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2419-longest-subarray-with-maximum-bitwise-and) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2678-number-of-senior-citizens) |
@@ -455,6 +456,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0560-subarray-sum-equals-k](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1732-find-the-highest-altitude) |
+| [2574-left-and-right-sum-differences](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3904-smallest-stable-index-ii) |
 ## Greedy
