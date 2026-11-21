@@ -106,6 +106,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [3024-type-of-triangle](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3024-type-of-triangle) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3467-transform-array-by-parity](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3483-unique-3-digit-even-numbers) |
 | [3484-design-spreadsheet](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3484-design-spreadsheet) |
@@ -239,6 +240,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3024-type-of-triangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3280-convert-date-to-binary) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -291,6 +293,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [2390-removing-stars-from-a-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2390-removing-stars-from-a-string) |
 | [2974-minimum-number-game](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2974-minimum-number-game) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3498-reverse-degree-of-a-string) |
 ## String
 |  |
@@ -542,6 +545,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0347-top-k-frequent-elements) |
 | [2974-minimum-number-game](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2974-minimum-number-game) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
 |  |
 | ------- |
