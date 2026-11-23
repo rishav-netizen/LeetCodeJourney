@@ -100,6 +100,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2678-number-of-senior-citizens](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2678-number-of-senior-citizens) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2974-minimum-number-game) |
@@ -143,6 +144,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [2149-rearrange-array-elements-by-sign](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2396-strictly-palindromic-number) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -161,6 +163,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2785-sort-vowels-in-a-string](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2785-sort-vowels-in-a-string) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3024-type-of-triangle) |
 | [3467-transform-array-by-parity](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/3467-transform-array-by-parity) |
@@ -269,6 +272,7 @@ This repository contains my solutions to LeetCode problems as I work through
 | [0540-single-element-in-a-sorted-array](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/rishav-netizen/LeetCodeJourney/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Newton's Method
 |  |
 | ------- |
